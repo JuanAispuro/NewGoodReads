@@ -1,0 +1,7 @@
+-- http://juanaispuro.ddns.net/books/search (para lo de search)
+
+-- ssh -i C:\Users\autod\Downloads\llave.pem ubuntu@juanaispuro.ddns.net
+
+-- cd GoodReads/
+
+-- $ sudo python3 webserver.py
